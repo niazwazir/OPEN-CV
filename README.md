@@ -1,2 +1,1 @@
-# OPEN-CV
-write jupyter notebook programms
+"# CASIS-OpenCV-Course" 
